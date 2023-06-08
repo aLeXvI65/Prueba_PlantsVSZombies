@@ -9,6 +9,10 @@ A continuación se dan las siguientes notas importantes a considerar:
 - El proyecto fue desarrollado en 3D, la razón por la que se tomó esta decisión es para minimizar la posibilidad de considerar haber hecho el proyecto a través de tutoriales en internet, ya que hay bastantes. Además, el elemento 3D le agregó retos que hicieron que el proceso de desarrollo fuera un poco diferente.
 - Se minimizó u omitió utilizar elementos visuales como VFX, Materiales complejos, Efectos de sonido entre otros. Esto para dedicar todo el tiempo y energía y enfocarlo exclusivamente a la programación, estructura y optimización del proyecto.
 
+## DIAGRAMA DE FLUJO Y CLASES
+
+En la raíz de éste repositorio se encuentra el diagrama de Flujo y Clases.
+
 ## ACERCA DEL JUEGO
 
 A continuación se describen las mecánicas desarrolladas en esta prueba:
