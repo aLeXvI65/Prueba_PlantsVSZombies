@@ -13,8 +13,6 @@ public class GameController : MonoBehaviour {
     [Header("Spawn Objects")]
     [SerializeField]
     private GameObject sun;
-    [SerializeField]
-    private GameObject zombie;
 
     [Header("HUD Texts")]
     [SerializeField]
